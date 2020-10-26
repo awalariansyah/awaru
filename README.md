@@ -21,10 +21,10 @@ _________________________________
 Here's some screenshot of the web
 
 # Homepage
-![Homepage](https://github.com/hanakodomoyasumi/awaru/blob/main/ss/home.png)
+![Homepage](https://github.com/awalariansyah/awaru/blob/main/ss/home.png)
 
 # Profile
-![Profile](https://github.com/hanakodomoyasumi/awaru/blob/main/ss/profile.png)
+![Profile](https://github.com/awalariansyah/awaru/blob/main/ss/profile.png)
 
 # Contact
-![Contact](https://github.com/hanakodomoyasumi/awaru/blob/main/ss/contact.png)
+![Contact](https://github.com/awalariansyah/awaru/blob/main/ss/contact.png)
